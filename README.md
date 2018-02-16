@@ -1,6 +1,6 @@
-## One Dark Syntax theme
+## Plutonium Syntax Theme
 
-![one-dark-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png)
+![plutonium-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png)
 
 > The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
 
