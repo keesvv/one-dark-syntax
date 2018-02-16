@@ -1,14 +1,16 @@
 {
-  "name": "one-dark-syntax",
+  "name": "plutonium-syntax",
   "theme": "syntax",
   "version": "1.8.2",
-  "description": "A dark syntax theme",
+  "description": "Fork of one-dark-syntax, optimized for a better experience.",
   "keywords": [
     "dark",
     "blue",
-    "syntax"
+    "syntax",
+    "syntax-highlighting",
+    "plutonium"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/keesvv/plutonium-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
